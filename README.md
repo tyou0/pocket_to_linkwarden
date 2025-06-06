@@ -1,7 +1,5 @@
 python pocket_to_linkwarden.py file.csv output.html
 
-Successfully coverted 497 bookmarks.
-Output HTML file saved to: output_bookmarks.html
 
 --- Instructions for Linkwarden ---
 1. Go to your Linkwarden instance and log in.
